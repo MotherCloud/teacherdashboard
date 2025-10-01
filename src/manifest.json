@@ -9,7 +9,7 @@
   "orientation": "any",
   "icons": [
     {
-      "src": "https://via.placeholder.com/192",
+      "src": "https://mothercloud.github.io/teacherdashboard/",
       "sizes": "192x192",
       "type": "image/png",
       "purpose": "any maskable"
@@ -23,3 +23,4 @@
   ]
 
 }
+
