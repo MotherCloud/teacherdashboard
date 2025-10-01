@@ -15,10 +15,11 @@
       "purpose": "any maskable"
     },
     {
-      "src": "https://via.placeholder.com/512",
+      "src": "https://mothercloud.github.io/teacherdashboard/",
       "sizes": "512x512",
       "type": "image/png",
       "purpose": "any maskable"
     }
   ]
+
 }
