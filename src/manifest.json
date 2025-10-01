@@ -2,20 +2,20 @@
   "name": "Teacher Dashboard",
   "short_name": "TeacherApp",
   "description": "Interactive classroom management dashboard for teachers",
-  "start_url": "https://mothercloud.github.io/teacherdashboard",
+  "start_url": "/teacherdashboard/",
   "display": "standalone",
   "background_color": "#ffffff",
   "theme_color": "#4f46e5",
   "orientation": "any",
   "icons": [
     {
-      "src": "https://mothercloud.github.io/teacherdashboard/",
+      "src": "https://via.placeholder.com/192",
       "sizes": "192x192",
       "type": "image/png",
       "purpose": "any maskable"
     },
     {
-      "src": "https://mothercloud.github.io/teacherdashboard/",
+      "src": "https://via.placeholder.com/512",
       "sizes": "512x512",
       "type": "image/png",
       "purpose": "any maskable"
@@ -23,5 +23,6 @@
   ]
 
 }
+
 
 
