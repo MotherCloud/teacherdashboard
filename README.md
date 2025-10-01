@@ -1,3 +1,3 @@
-# tdash
+#Teacher Dashboard
 
-[Edit in StackBlitz next generation editor ⚡️](https://stackblitz.com/~/github.com/MotherCloud/tdash)
+This is a work in progress. Please email n.defehr@gmail.com with suggestions for design changes or additional widgets.
