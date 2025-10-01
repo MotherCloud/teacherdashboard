@@ -2,7 +2,7 @@
   "name": "Teacher Dashboard",
   "short_name": "TeacherApp",
   "description": "Interactive classroom management dashboard for teachers",
-  "start_url": "/",
+  "start_url": "https://mothercloud.github.io/teacherdashboard",
   "display": "standalone",
   "background_color": "#ffffff",
   "theme_color": "#4f46e5",
@@ -23,4 +23,5 @@
   ]
 
 }
+
 
